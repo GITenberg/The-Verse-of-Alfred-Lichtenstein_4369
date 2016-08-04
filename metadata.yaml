@@ -1,0 +1,25 @@
+_repo: The-Verse-of-Alfred-Lichtenstein_4369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lichtenstein, Alfred
+    birthdate: 1889
+    deathdate: 1914
+    gutenberg_agent_id: '1467'
+    url: http://www.gutenberg.org/2009/agents/1467
+    wikipedia: http://de.wikipedia.org/wiki/Alfred_Lichtenstein
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- Translations into English'
+- GITenberg
+title: The Verse of Alfred Lichtenstein
+url: http://www.gutenberg.org/ebooks/4369
